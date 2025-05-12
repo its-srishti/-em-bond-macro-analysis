@@ -22,8 +22,9 @@ The goal is to:
 
 --- Project Structure
 <br/>
-<br/>├── data/ <- Raw and cleaned datasets
-<br/> Raw <br/>--> Dependent : <br/>10Y Bond Yield Historical Data from 01/01/2010 to 01/12/2024 of <br/> India <br/> Brazil <br/>South Africa <br/> Pakistan <br/> Turkey <br/> Sri Lanka (01/10/2014) <br/> Egypt  <br/>--> Independent: <br/>Inflation (CPI) <br/>Interest Rate <br/> GDP Growth <br/> Fiscal Deficit <br/> FX Reserves <br/> External Debt <br/> USD Index <br/> Oil Price (Brent) <br/> Credit Ratings <br/>
+<br/>├── data/ <- Raw and Cleaned datasets
+<br/>
+<br/>--> Dependent : <br/>10Y Bond Yield Historical Data from 01/01/2010 to 01/12/2024 of <br/> - India <br/> - Brazil <br/> - South Africa <br/> - Pakistan <br/> - Turkey <br/> - Sri Lanka (01/10/2014) <br/> - Egypt  <br/>--> Independent: <br/> - Inflation (CPI) <br/> - Interest Rate <br/> - GDP Growth <br/> - Fiscal Deficit <br/> - FX Reserves <br/> - External Debt <br/> - USD Index <br/> - Oil Price (Brent) <br/> - Credit Ratings <br/>
 <br/>├── notebooks/ <- Jupyter notebooks for EDA and analysis
 <br/>├── scripts/ <- Python scripts for data processing
 <br/>├── figures/ <- Visualizations and plots
