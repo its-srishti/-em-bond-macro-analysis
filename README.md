@@ -21,14 +21,14 @@ The goal is to:
 - Git & GitHub
 
 --- Project Structure
-/n├── data/ <- Raw and cleaned datasets
-/n Raw --> Dependent : 10Y Bond Yield Historical Data of India, Brazil, South Africa, Pakistan, Turkey, Sri Lanka (01/10/2014), Egypt from 01/01/2010 to 01/12/2024 --> Independent: Inflation (CPI), Interest Rate, GDP Growth, Fiscal Deficit, FX Reserves, External Debt, USD Index, Oil Price (Brent), Credit Ratings
-/n├── notebooks/ <- Jupyter notebooks for EDA and analysis
-/n├── scripts/ <- Python scripts for data processing
-/n├── figures/ <- Visualizations and plots
-/n├── reports/ <- Final reports and summaries
-/n├── README.md <- This file
-/n└── requirements.txt <- List of Python dependencies
+<br/>├── data/ <- Raw and cleaned datasets
+<br/> Raw --> Dependent : <br/>10Y Bond Yield Historical Data of India <br/>, Brazil, South Africa, Pakistan, Turkey, Sri Lanka (01/10/2014), Egypt from 01/01/2010 to 01/12/2024 --> Independent: Inflation (CPI), Interest Rate, GDP Growth, Fiscal Deficit, FX Reserves, External Debt, USD Index, Oil Price (Brent), Credit Ratings
+<br/>├── notebooks/ <- Jupyter notebooks for EDA and analysis
+<br/>├── scripts/ <- Python scripts for data processing
+<br/>├── figures/ <- Visualizations and plots
+<br/>├── reports/ <- Final reports and summaries
+<br/>├── README.md <- This file
+<br/>└── requirements.txt <- List of Python dependencies
 
 --- Author
 
