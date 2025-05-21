@@ -27,7 +27,7 @@ The goal is to:
 Countries            | Dependent Variable | Independent Variables
 -------------------- | -------------------| ---------------------
 India                |10Y Bond Yield Historical Datafrom 01/01/2010 to 01/12/2024 (investing.com)  | Inflation (CPI)
-Brazil               |            --                                               | Interest Rate
+Brazil               |            --                                               | Central Bank Policy Rates
 South Africa         |             --                                              | GDP Growth
 Pakistan             |             --                                              | Fiscal Deficit
 Turkey               |             --                                              | External Debt
