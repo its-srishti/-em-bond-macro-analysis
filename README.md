@@ -26,9 +26,9 @@ The goal is to:
 <br/>
 Countries            | Dependent Variable | Independent Variables
 -------------------- | -------------------| ---------------------
-India                |10Y Bond Yield Historical Datafrom 01/01/2010 to 01/12/2024 (investing.com)  | Inflation (CPI)
-Brazil               |            --                                               | Central Bank Policy Rates
-South Africa         |             --                                              | GDP Growth
+India                |10Y Bond Yield Historical Datafrom 01/01/2010 to 01/12/2024 (investing.com)  | Inflation (CPI) WDI - FP.CPI.TOTL.ZG
+Brazil               |            --                                               | Central Bank Policy Rates - BIS
+South Africa         |             --                                              | GDP Growth WDI - NY.GDP.MKTP.KD.ZG
 Pakistan             |             --                                              | Fiscal Deficit
 Turkey               |             --                                              | External Debt
 Sri Lanka(01/10/2014)|             --                                              | USD Index 
